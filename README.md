@@ -1,5 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=40&duration=3000&pause=300&width=1200&height=200&vCenter=true&background=38C2FF0B&lines=Hi+there+👋,;I'm+Andy+Liu,;A+Front-end+developer.)](https://www.linkedin.com/in/andyliu-dev/)
-
+<!-- 
+<a href="https://andyliu-dev.vercel.app/"> <img width="30" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a> -->
 ### About Me
 
 - 🧑🏻‍💻 I'm a self-taught frontend web developer based in Sydney. I'm passionate with programming and love to learn new things and technologies. 
