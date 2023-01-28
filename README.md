@@ -3,13 +3,13 @@
 <a href="https://andyliu-dev.vercel.app/"> <img width="30" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a> -->
 ### About Me
 
-- 🧑🏻‍💻 I'm a self-taught frontend web developer based in Sydney. I'm passionate with programming and love to learn new things and technologies. 
+- 🧑🏻‍💻 I'm a frontend web developer based in Sydney. I'm passionate with programming and love to learn new things and technologies. 
 - 🏆 I have built a fully funcionality Netflix clone (Netflex) with amazing features that Netflix offers. Check <a href="https://net-media.vercel.app/">Demo≫</a> here.
-- 📖 I'm planing on study vue and typescript at next stage.
+- 📖 I'm planing on study testing and vue at next stage.
 - 🔭 I’m currently looking for a job as a web developer. I can work either on site or remotely.
 - 🔗 Feel free to check out my <a href="https://www.linkedin.com/in/andyliu-dev/">Linkedin</a>.
 - 💼 Check out my <a href="https://andyliu-dev.vercel.app/">Portfolio</a> here, or directly <a href="https://drive.google.com/file/d/1T3QRJE6evbPme8F49q5Cdqsh2bAfJTdN/view?usp=sharing">download</a>  my resume 📄.
-- 📫 Fly me an email: liuhua6606@gmail.com <a href="mailto:liuhua6606@gmail.com"> 📩 </a>.
+- 📫 Fly me an email: andyliu.dev.au@gmail.com <a href="mailto:andyliu.dev.au@gmail.com"> 📩 </a>.
 <br/>
 
 ### Languages and Toolboxs:
