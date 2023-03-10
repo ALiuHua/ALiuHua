@@ -8,7 +8,7 @@
 - 📖 I'm planing on study testing and vue at next stage.
 - 🔭 I’m currently looking for a job as a web developer. I can work either on site or remotely.
 - 🔗 Feel free to check out my <a href="https://www.linkedin.com/in/andyliu-dev/">Linkedin</a>.
-- 💼 Check out my <a href="https://andyliu-dev.vercel.app/">Portfolio</a> here, or directly <a href="https://drive.google.com/file/d/1lq_mq2HxvCNrQlysn4-WumWswMtvOFPZ/view?usp=share_link">download</a>  my resume 📄.
+- 💼 Check out my <a href="https://andyliu-dev.vercel.app/">Portfolio</a> here, or directly <a href="[https://drive.google.com/file/d/1lq_mq2HxvCNrQlysn4-WumWswMtvOFPZ/view?usp=share_link](https://drive.google.com/file/d/1lq_mq2HxvCNrQlysn4-WumWswMtvOFPZ/view?usp=share_link)">download</a>  my resume 📄.
 - 📫 Fly me an email: andyliu.dev.au@gmail.com <a href="mailto:andyliu.dev.au@gmail.com"> 📩 </a>.
 <br/>
 
